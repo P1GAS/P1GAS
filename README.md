@@ -1,1 +1,1 @@
-Hi, I am P1GAS, I write JavaScript!
+Hi, I write JavaScript!
